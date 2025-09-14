@@ -28,7 +28,7 @@
 
 ShopQuick is a comprehensive multi-vendor e-commerce platform that enables entrepreneurs to create their own online stores and sell products through a unified marketplace. With features like admin approval workflows, premium subscriptions, and integrated payment processing, it provides everything needed to run a modern e-commerce business.
 
-**🔗 Live Demo:** [gocartshop.in](https://gocartshop.in)
+**🔗 Live Demo:** [ShopQuick](https://shop-quick-gndt.vercel.app)
 
 ---
 
